@@ -1,0 +1,23 @@
+name: Nakedly Raw Culture
+favicon: null
+layout_spectrum: 0.34897362324409187
+typography_spectrum: 0.8298623396549374
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.11284276307560503
+  lightness: 0.2973204858135432
+  saturation: 0.31570037361234426
+  rhythmicContrast: 0.34989804308861494
+purpose: []
