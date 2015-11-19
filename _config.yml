@@ -1,6 +1,6 @@
 name: Nakedly Raw Culture
 favicon: null
-layout_spectrum: 0.34897362324409187
+layout_spectrum: 0.8583
 typography_spectrum: 0.8298623396549374
 title: 'Discovering How Foods & Lifestyle Impact the Microbiome'
 cta:
@@ -24,6 +24,6 @@ color:
     - '#00fc00'
   brandStrength: 0.125
   lightness: 0.2973204858135432
-  saturation: 0.31570037361234426
+  saturation: 0.375
   rhythmicContrast: 0.34989804308861494
 purpose: []
