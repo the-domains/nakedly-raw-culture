@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Nakedly Raw Culture]]></title>
         <description><![CDATA[Nakedly Raw Culture]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nakedly-raw-culture/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 Nov 2015 00:29:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 19 Nov 2015 00:38:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nakedly-raw-culture/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Diabetes preventive gluten-free diet decreases the number of caecal bacteria in non-obese diabetic mice. - PubMed - NCBI]]></title>
             <description><![CDATA[<article><h1>Diabetes preventive gluten-free diet decreases the number of caecal bacteria in non-obese diabetic mice. - PubMed - NCBI</h1><p>Diabetes Metab Res Rev. 2006 May-Jun;22(3):220-5. Research Support, Non-U.S. Gov't</p><img src="http://www.ncbi.nlm.nih.gov/coreutils/img/pubmed256blue.png"></article>]]></description>
             <link>http://www.ncbi.nlm.nih.gov/pubmed/16355418?utm_content=bufferbb548&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer#</link>
             <guid isPermaLink="false">724bbc03-161e-4dc6-86ba-16c75efb37cc</guid>
-            <pubDate>Thu, 19 Nov 2015 00:28:54 GMT</pubDate>
+            <pubDate>Thu, 19 Nov 2015 00:38:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
